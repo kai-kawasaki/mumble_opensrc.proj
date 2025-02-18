@@ -143,6 +143,7 @@ struct OverlaySettings {
 	bool bBox           = false;
 	bool bFps           = false;
 	bool bTime          = false;
+	bool bMilitaryTime  = true;
 
 	qreal fUserName              = 0.0f;
 	qreal fChannel               = 0.0f;

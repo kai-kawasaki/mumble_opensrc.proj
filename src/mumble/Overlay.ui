@@ -161,6 +161,17 @@
                 </widget>
                </item>
                <item>
+               <item>
+                <widget class="QCheckBox" name="qcbMilitaryTime">
+                 <property name="toolTip">
+                  <string>Use a 24-hour military time format for the overlay clock.</string>
+                 </property>
+                 <property name="text">
+                  <string>Use military time</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
                 <widget class="QPushButton" name="qpbFpsFont">
                  <property name="toolTip">
                   <string>Set the overlay font.</string>
